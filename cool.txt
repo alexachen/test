@@ -5,6 +5,9 @@ d
 e
 f
 g
+<<<<<<< HEAD
+=======
+>>>>>>> test
 h
 i
 j
@@ -13,6 +16,8 @@ l
 m
 n
 o
+h
+h
 p
 q
 r
