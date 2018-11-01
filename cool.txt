@@ -1,7 +1,9 @@
 hi 
 bye 
 a
+<<<<<<< HEAD
 =======
+b
 b
 b
 
