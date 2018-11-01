@@ -1,6 +1,10 @@
 hi 
 bye 
+a
 cool 
+a
+b
+c
 fool
 
 hi
