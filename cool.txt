@@ -1,6 +1,14 @@
 hi 
 bye 
+a
+b
+b
+b
+
 cool 
+a
+b
+c
 fool
 
 hi
