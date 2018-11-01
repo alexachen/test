@@ -1,6 +1,11 @@
 hi 
 bye 
 a
+=======
+b
+b
+
+>>>>>>> test
 cool 
 a
 b
