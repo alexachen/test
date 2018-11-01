@@ -5,21 +5,4 @@ d
 e
 f
 g
-<<<<<<< HEAD
-=======
->>>>>>> test
 h
-i
-j
-k
-l
-m
-n
-o
-h
-h
-p
-q
-r
-s
-t
