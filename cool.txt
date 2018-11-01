@@ -2,3 +2,6 @@ hi
 bye 
 cool 
 fool
+
+hi
+cool
