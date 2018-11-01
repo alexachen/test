@@ -1,18 +1,22 @@
 hi 
 bye 
 a
-<<<<<<< HEAD
-=======
+h
+df
 b
 b
 b
-
->>>>>>> test
 cool 
 a
 b
 c
-fool
+df
+
+fools
+
+s
+
+d
 
 hi
 cool
